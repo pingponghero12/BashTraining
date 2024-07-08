@@ -1,6 +1,8 @@
 ```bash
 #!/bin/bash
 
+tracebak.print_exc() = for stack trace in python
+
 echo "Skibidi"
 ```
 To run: bash Test.sh

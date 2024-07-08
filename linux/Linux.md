@@ -421,3 +421,12 @@ do
 done
 ```
 
+## apt Commands
+```bash
+apt update:             Update the package list.
+apt upgrade:            Upgrade all upgradable packages.
+apt install <package>:  Install a package.
+apt remove <package>:   Remove a package.
+apt search <package>:   Search for a package.
+apt list --installed:   List installed packages.```
+
